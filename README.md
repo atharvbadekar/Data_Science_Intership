@@ -11,7 +11,7 @@ Welcome to my Data Science Internship Portfolio! This repository contains the pr
 
 ## Certificate
 
-I successfully completed the Internship in Machine Learning & Data Science with Python presented by PHN Technology Pvt Ltd. You can view my internship certificate [here](PHN_internship_certificate.pdf).
+I successfully completed the Internship in Machine Learning & Data Science with Python presented by PHN Technology Pvt Ltd. You can view my internship certificate [here](https://github.com/atharvbadekar/Phn_Intership_tasks/blob/39aae6a2913edcd0cfe6d3a6d47ec336b69dd683/PHN_internship_certificate.pdf).
 
 ## Projects
 
