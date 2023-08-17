@@ -11,13 +11,13 @@ Welcome to my Data Science Internship Portfolio! This repository contains the pr
 
 ## Certificate
 
-I successfully completed the Internship in Machine Learning & Data Science with Python presented by PHN Technology Pvt Ltd. You can view my internship certificate [here](link_to_certificate.pdf).
+I successfully completed the Internship in Machine Learning & Data Science with Python presented by PHN Technology Pvt Ltd. You can view my internship certificate [here](PHN_internship_certificate.pdf).
 
 ## Projects
 
 ### Project 1: Sentiment Analysis of Amazon Reviews
 - Description: Conducted sentiment analysis on Amazon product reviews using Python. Utilized NLP techniques and machine learning to classify sentiments as positive, negative, or neutral.
-- Repository: [Sentiment Analysis Project](link_to_repo)
+- Repository: [Sentiment Analysis Project](https://github.com/atharvbadekar/sentiment_analysis.git)
 
 
 ## Scripts and Notebooks
